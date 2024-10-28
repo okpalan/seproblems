@@ -10,4 +10,6 @@ Cloudflare uses a physical entropy source—a wall of lava lamps—to generate r
 
 **Objective**: Identify and assess the extent to which environmental or physical manipulation could affect the reliability of Cloudflare's lava lamp entropy source and determine if this poses a measurable risk to its cryptographic security.
 
+Look at Phillip Emaegwali Hyper Plane point on a globe talk.
+
 
